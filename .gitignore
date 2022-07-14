@@ -1,6 +1,8 @@
-# Ignore everything:
-*
+# ignore everything 
+/*
 
-# Except for 
+# but do not ignore the .gitignore file
+!.gitignore
 
-!MainTopWebhelp
+# do not ignore
+!/MainTopWebHelp

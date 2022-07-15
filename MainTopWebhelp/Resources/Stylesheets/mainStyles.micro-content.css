@@ -2,10 +2,10 @@
 
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
-.micro-response
+@font-face 
 {
-	font-family: Arial, Avenir, Myriad;
-	font-size: 11pt;
+	font-family: 'Fellix-Regular';
+	src: url(../Fonts/fellix-otf/Fellix-Regular.otf);
 }
 
 .micro-response html.home-topic	/*Used on home topic to override padding set in the skin*/
@@ -29,7 +29,7 @@
 	font-weight: bold;
 	font-size: 2em;
 	color: #45494c;
-	font-family: Arial, Avenir, Myriad;
+	font-family: Fellix-Regular;
 }
 
 .micro-response h2
@@ -42,12 +42,14 @@
 {
 	font-weight: bold;
 	font-size: 1.6em;
+	font-family: Fellix-Regular;
 }
 
 .micro-response h4
 {
 	font-weight: bold;
 	font-size: 1.4em;
+	font-family: Fellix-Regular;
 }
 
 .micro-response p
@@ -387,6 +389,16 @@
 .micro-response .footer-icons > a:first-of-type
 {
 	padding-right: 10px;
+}
+
+.micro-response h5
+{
+	font-family: Fellix-Regular;
+}
+
+.micro-response h6
+{
+	font-family: Fellix-Regular;
 }
 
 @media print

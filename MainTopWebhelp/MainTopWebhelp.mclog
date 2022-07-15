@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 r2 Generated MainTopWebhelp.fltar" Date="2022-07-15T09:57:34.9615868+01:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 r2 Generated MainTopWebhelp.fltar" Date="2022-07-15T10:49:49.1791505+01:00">
     <Messages>Compiling target MainTopWebhelp...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Primary.bhoofTempShow
@@ -85,8 +85,6 @@ Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Webs
 Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\analyze\search-beta\search-beta.htm
 Topic marked 'not searchable': main-home.htm...
 Applying template page MainHomePage.flmsp...
-Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\Resources\MasterPages\[[[Undefined variable HerschelGeneral.Twitter]]]
-Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\Resources\MasterPages\[[[Undefined variable HerschelGeneral.Facebook]]]http:\\www.facebook.com\madcapdocteam
 Generated main-home.htm
 Processing topic: get-started\subscriptions-addons.htm...
 Applying template page MainOtherTopics.flmsp...
@@ -1631,8 +1629,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 2552
-Output generated in 4 minute(s) and 53 second(s).
+Ignored Compiler Warnings: 2517
+Output generated in 2 minute(s) and 44 second(s).
 
 Done
 Saving log to "C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Output\Rich_Green\MainTopWebhelp\MainTopWebhelp.mclog"
@@ -1664,8 +1662,6 @@ Saving log to "C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Lo
         <LogEntry Message="Term: auto scaling, defined in more than one glossary file.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Glossary" Target="MainTopWebhelp" ErrorID="10018" />
         <LogEntry File="../../../Content/main-home.htm" Message="Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\respond\automated-response-new.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10001" />
         <LogEntry File="../../../Content/main-home.htm" Message="Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\analyze\search-beta\search-beta.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/MainHomePage.flmsp" Message="Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\Resources\MasterPages\[[[Undefined variable HerschelGeneral.Twitter]]]&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/MainHomePage.flmsp" Message="Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\Resources\MasterPages\[[[Undefined variable HerschelGeneral.Facebook]]]http:\\www.facebook.com\madcapdocteam&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10001" />
         <LogEntry File="../../../Content/get-started/search-a.htm" Message="Missing linked source file: C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Content\incidents.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10001" />
         <LogEntry File="../../../Content/get-started/recommended-training.htm" Message="Cross-reference to excluded file removed from output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10027" />
         <LogEntry File="../../../Content/get-started/upgrade-console.htm" Message="Cross-reference to excluded file removed from output.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="MainTopWebhelp" ErrorID="10027" />

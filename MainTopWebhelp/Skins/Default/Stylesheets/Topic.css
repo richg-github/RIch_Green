@@ -430,6 +430,55 @@ a.glossaryTerm
 	opacity: 0;
 }
 
+.xref
+{
+	color: #076685;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+div.MCBreadcrumbsBox_0
+{
+	border-bottom-width: 0;
+	color: #888888;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.codeSnippetBody
+{
+	font-family: Consolas, Monaco, 'Courier New', monospace;
+	padding: 1em 0 1em 0;
+	line-height: 1em;
+	tab-size: 4;
+	-moz-tab-size: 4;
+	clear: both;
+}
+
+.codeSnippetCopyButton
+{
+	float: right;
+	padding-right: 1.5em;
+	cursor: pointer;
+	border: none;
+	page-break-after: avoid;
+	page-break-before: avoid;
+}
+
+.codeSnippetCopyButton:hover
+{
+	color: #888;
+}
+
+.codeSnippet
+{
+	padding: 1em;
+	border: solid 1px #DDD;
+	font-size: 9pt;
+}
+
 .dropDown
 {
 	border-bottom: 1px solid #dadada;
@@ -480,55 +529,6 @@ a.glossaryTerm
 .dropDownBody
 {
 	padding: 10px 30px 0;
-}
-
-.xref
-{
-	color: #076685;
-	font-weight: bold;
-	text-decoration: underline;
-}
-
-div.MCBreadcrumbsBox_0
-{
-	border-bottom-width: 0;
-	color: #888888;
-	border-bottom-style: solid;
-	border-bottom-color: black;
-	padding-bottom: 10px;
-	margin-bottom: 10px;
-}
-
-.codeSnippetBody
-{
-	font-family: Consolas, Monaco, 'Courier New', monospace;
-	padding: 1em 0 1em 0;
-	line-height: 1em;
-	tab-size: 4;
-	-moz-tab-size: 4;
-	clear: both;
-}
-
-.codeSnippetCopyButton
-{
-	float: right;
-	padding-right: 1.5em;
-	cursor: pointer;
-	border: none;
-	page-break-after: avoid;
-	page-break-before: avoid;
-}
-
-.codeSnippetCopyButton:hover
-{
-	color: #888;
-}
-
-.codeSnippet
-{
-	padding: 1em;
-	border: solid 1px #DDD;
-	font-size: 9pt;
 }
 
 .codeSnippetCaption

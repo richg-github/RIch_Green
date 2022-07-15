@@ -2,12 +2,6 @@
 
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
-@font-face 
-{
-	font-family: 'Fellix-Regular';
-	src: url(../Fonts/fellix-otf/Fellix-Regular.otf);
-}
-
 html.home-topic	/*Used on home topic to override padding set in the skin*/
 {
 	
@@ -29,7 +23,6 @@ h1
 	font-weight: bold;
 	font-size: 2em;
 	color: #45494c;
-	font-family: Fellix-Regular;
 }
 
 h2
@@ -42,14 +35,12 @@ h3
 {
 	font-weight: bold;
 	font-size: 1.6em;
-	font-family: Fellix-Regular;
 }
 
 h4
 {
 	font-weight: bold;
 	font-size: 1.4em;
-	font-family: Fellix-Regular;
 }
 
 p

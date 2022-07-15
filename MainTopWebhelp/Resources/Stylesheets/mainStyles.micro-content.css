@@ -2,12 +2,6 @@
 
 @namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
 
-@font-face 
-{
-	font-family: 'Fellix-Regular';
-	src: url(../Fonts/fellix-otf/Fellix-Regular.otf);
-}
-
 .micro-response html.home-topic	/*Used on home topic to override padding set in the skin*/
 {
 	
@@ -29,7 +23,6 @@
 	font-weight: bold;
 	font-size: 2em;
 	color: #45494c;
-	font-family: Fellix-Regular;
 }
 
 .micro-response h2
@@ -42,14 +35,12 @@
 {
 	font-weight: bold;
 	font-size: 1.6em;
-	font-family: Fellix-Regular;
 }
 
 .micro-response h4
 {
 	font-weight: bold;
 	font-size: 1.4em;
-	font-family: Fellix-Regular;
 }
 
 .micro-response p

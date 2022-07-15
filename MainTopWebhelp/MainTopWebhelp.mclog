@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 r2 Generated MainTopWebhelp.fltar" Date="2022-07-15T14:07:06.0396890+01:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 r2 Generated MainTopWebhelp.fltar" Date="2022-07-15T14:30:26.1367265+01:00">
     <Messages>Compiling target MainTopWebhelp...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Primary.bhoofTempShow
@@ -1618,7 +1618,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 2513
-Output generated in 2 minute(s) and 15 second(s).
+Output generated in 2 minute(s) and 3 second(s).
 
 Done
 Saving log to "C:\Users\Rich Green\Documents\Alert Logic Flare Websites\Alert Logic Help Project\Output\Rich_Green\MainTopWebhelp\MainTopWebhelp.mclog"

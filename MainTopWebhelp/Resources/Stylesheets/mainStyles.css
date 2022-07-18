@@ -92,7 +92,7 @@ table
 	margin-bottom: 1.5em;
 	border-spacing: 0px;
 	text-align: left;
-	border: solid 1px #c0c0c0;
+	border: solid 1px #D3D3D3;
 	padding: 4px;
 	border-collapse: collapse;
 }
@@ -100,8 +100,52 @@ table
 td,
 th
 {
-	border: solid 1px #c0c0c0;
 	padding: 6px;
+}
+
+/* copied from previous site */
+
+div.milestone
+{
+	background-color: #bae0a7;
+}
+
+div.caution
+{
+	background-image: url('../Images/General/Layout/HI_15_Alert.png');
+}
+
+div.note
+{
+	background-image: url('../Images/General/Layout/HI_15_Note.png');
+}
+
+div.tip
+{
+	background-image: url('../Images/General/Layout/HI_15_Bulb.png');
+}
+
+div.example
+{
+	background-image: url('../Images/General/Layout/HI_15_Example.png');
+}
+
+div.milestone,
+div.caution,
+div.note,
+div.tip,
+div.example
+{
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 20px 20px;
+	border: 1px solid #d5d6d2;
+	-moz-border-radius: 1.5em;
+	-webkit-border-radius: 1.5em;
+	border-radius: 1.5em;
+	padding: 1em 3em 1em 8em;
+	min-height: 8em;
+	margin: 1.8em auto 1.8em auto;
 }
 
 MadCap|expandingHead
